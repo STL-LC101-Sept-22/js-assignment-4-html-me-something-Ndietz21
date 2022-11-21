@@ -1,7 +1,21 @@
-h1 { 
+#mainHeading { 
     color: red;
+    text-align: center;
 }
 
-h2 {
-    color:aquamarine;
+body {
+    margin: 8px;
+    display: block;
+}
+
+.overView{
+    text-align: center;
+}
+
+.funParagraph{
+    color: green
+}
+
+body{
+   background-color:cornsilk;
 }
